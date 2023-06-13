@@ -1,21 +1,4 @@
-.header-panel {
-  background-image: url("../img/hex-fabric.jpg");
-  background-color: #9c27b0;
-  height: 143px;
-  position: relative;
-  z-index: 3;
-}
 
-.header-panel h1 {
-    color: #000;
-    font-size: 0;
-    padding-left: 35px;
-    padding-bottom: 80px;
-}
-
-body {
-  background-color: #ffffff;
-}
 
 a:link {
   color: rgb(0, 102, 119);
