@@ -46,6 +46,7 @@ opts_knit$set(
 
 This is the landing space for the websites and GitHub repos of the courses Andy teaches, including:
 
+- _EPsy 3264: Basic &amp; Applied Statistics_
 - _EPsy 8251: Methods in Data Analysis for Educational Research I_
 - _EPsy 8252: Methods in Data Analysis for Educational Research II_
 - _EPsy 8264: Advanced Multiple Regression_
@@ -54,14 +55,24 @@ Below you can find links to the course website and GitHub repos for different se
 
 <br />
 
+## EPsy 3264
+
+- Fall 2019 (Super Memory)
+  + [Website](https://zief0002.github.io/super-memory/)
+  + [GH Repo](https://github.com/zief0002/super-memory)
+  
+
+<br/>
+
 ## EPsy 8251
 
+- Fall 2022 (Verbose Funicular)
+  + [Website](https://zief0002.github.io/verbose-funicular/)
+  + [GH Repo](https://github.com/zief0002/verbose-funicular)
 
 <br />
 
 ## EPsy 8252
-
-
 
 - Spring 2022 (Gentrified Ladybug)
   + [Website](https://zief0002.github.io/gentrified-ladybug/)
@@ -76,6 +87,9 @@ Below you can find links to the course website and GitHub repos for different se
 
 ## EPsy 8264
 
+- Fall 2021 (Urban Memory)
+  + [Website](https://zief0002.github.io/urban-memory/)
+  + [GH Repo](https://github.com/zief0002/urban-memory)
 - Fall 2022 (Pensive Giraffe)
   + [Website](https://zief0002.github.io/pensive-giraffe/)
   + [GH Repo](https://github.com/zief0002/pensive-giraffe)
