@@ -1,0 +1,75 @@
+---
+title: "Courses"
+output:
+  rmdformats::material:
+    highlight: kate
+    css: ["style/website-style.css", "style/font-awesome-all.css"]
+---
+
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+library(fontawesome)
+
+## Global options
+options(max.print = "75")
+
+# Chunk options
+opts_chunk$set(
+  echo = FALSE,
+	cache = TRUE,
+  prompt = FALSE,
+  tidy = TRUE,
+  comment = NA,
+  message = FALSE,
+  warning = FALSE)
+
+opts_knit$set(width = 75)
+```
+
+
+This is the landing space for the websites and GitHub repos of the courses I teach, including:
+
+- _EPsy 8251: Methods in Data Analysis for Educational Research I_
+- _EPsy 8252: Methods in Data Analysis for Educational Research II_
+- _EPsy 8264: Advanced Multiple Regression_
+
+Below you can find links to the course website and GitHub repos for different semesters.
+
+<br />
+
+## EPsy 8251
+
+
+<br />
+
+## EPsy 8252
+
+<!-- <img src="img/epsy-8252-logo.png" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /> -->
+
+- Spring 2022 (Gentrified Ladybug)
+  + [Website](https://zief0002.github.io/gentrified-ladybug/)
+  + [GH Repo](https://github.com/zief0002/gentrified-ladybug)
+- Spring 2023 (Bespectacled Antelope)
+  + [Website](https://zief0002.github.io/bespectacled-antelope/)
+  + [GH Repo](https://github.com/zief0002/bespectacled-antelope)
+  
+  
+<br />
+
+
+## EPsy 8264
+
+- Fall 2022 (Pensive Giraffe)
+  + [Website](https://zief0002.github.io/pensive-giraffe/)
+  + [GH Repo](https://github.com/zief0002/pensive-giraffe)
+
+
+<br />
+
+
+
+
+
