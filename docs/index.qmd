@@ -66,9 +66,12 @@ Below you can find links to the course website and GitHub repos for different se
 
 ## EPsy 8251
 
-- Fall 2022 (Verbose Funicular)
+- Fall 2021 (Verbose Funicular)
   + [Website](https://zief0002.github.io/verbose-funicular/)
   + [GH Repo](https://github.com/zief0002/verbose-funicular)
+- Fall 2022 (Miniature Garbanzo)
+  + [Website](https://zief0002.github.io/miniature-garbanzo/)
+  + [GH Repo](https://github.com/zief0002/miniature-garbanzo)
 
 <br />
 
