@@ -8,9 +8,13 @@ This GitHub repository is a landing page for the websites and GitHub repos of th
 - _EPsy 8264: Advanced Multiple Regression_
 
 
+## EPsy 5261
+
+- [Fall 2023 --- Barbieland](https://zief0002.github.io/barbieland/)
+
 ## EPsy 8251
 
-
+- [Fall 2023 --- Rustic Penguin](https://zief0002.github.io/rustic-penguin/)
 
 ## EPsy 8252
 
@@ -20,4 +24,5 @@ This GitHub repository is a landing page for the websites and GitHub repos of th
 
 ## EPsy 8264
 
+- [Fall 2023 --- Redesigned Adventure](https://zief0002.github.io/redesigned-adventure/)
 - [Fall 2022 --- Pensive Giraffe](https://zief0002.github.io/pensive-giraffe/)
